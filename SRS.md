@@ -5,8 +5,6 @@
 
 ### **Document Information**
 - **Project Name:** Student Management System
-- **Date:** December 12, 2025
-- **Prepared By:** Development Team
 - **Technology:** Java (Console-based Application)
 
 ---
